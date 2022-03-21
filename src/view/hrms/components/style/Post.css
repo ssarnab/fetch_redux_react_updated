@@ -1,0 +1,10 @@
+.profile {
+  top: 0;
+  position: absolute;
+  width: 80%;
+}
+
+.pro:hover {
+  background: crimson;
+  color: #fff; 
+}
